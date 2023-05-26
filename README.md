@@ -6,11 +6,6 @@ I am a passionate and skilled software developer with experience in software tes
 
 ## Skills
 
-- Software testing methodologies (UAT, API testing)
-- Test automation tools (Selenium - Java, Postman)
-- Software development lifecycles
-- Defect tracking tools (Rally, Jira)
-- Java programming
 - HTML, CSS, JavaScript
 - React
 - Node.js
@@ -18,6 +13,11 @@ I am a passionate and skilled software developer with experience in software tes
 - MongoDB
 - SQL
 - Argumented Reality
+- Software testing methodologies (UAT, API testing)
+- Test automation tools (Selenium - Java, Postman)
+- Software development lifecycles
+- Defect tracking tools (Rally, Jira)
+- Java programming
 
 ## Education
 
